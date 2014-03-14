@@ -1,0 +1,190 @@
+html
+{
+	background-color:#2c3e50;
+}
+
+
+
+#container
+{
+	width: 400px;
+	height: 300px;
+	position: relative;
+	margin: 0 auto;
+	top: 300px;
+}
+
+
+label
+{
+	 font-family:'bebas_neueregular';
+	 font-size: 40px;
+	 color: #bdc3c7;
+}
+
+
+#moneyInput
+{
+	text-align: center;
+	position: relative;
+
+}
+
+
+
+#amount
+{
+	border-style: solid;
+	border-radius: 20px;
+	height: 30px;
+	width: 200px;
+
+}
+
+
+
+#wallet
+{
+	width: 1200px;
+	height: 200px;
+	position: relative;
+	margin: 0 auto;
+	top: 200px;
+}
+
+
+
+
+#twoPound
+{
+	width: 100px;
+	height: 50px;
+	font-size: 50px;
+	font-family:'bebas_neueregular';
+	color: #c0392b;
+	text-align: center;
+}
+
+#onePound
+{
+	width: 100px;
+	height: 50px;
+	position: relative;
+	left: 150px;
+	top: -50px;
+	font-family:'bebas_neueregular';
+	color: #c0392b;
+	text-align: center;
+	font-size: 50px;
+}
+
+#fiftyPence
+{
+	width: 100px;
+	height: 50px;
+	position: relative;
+	left: 300px;
+	top: -100px;
+	font-family:'bebas_neueregular';
+	color: #c0392b;
+	text-align: center;
+	font-size: 50px;
+}
+
+#twentyPence
+{
+	width: 100px;
+	height: 50px;
+	position: relative;
+	left: 450px;
+	top: -150px;
+	font-family:'bebas_neueregular';
+	color: #c0392b;
+	text-align: center;
+	font-size: 50px;
+}
+
+#tenPence
+{
+	width: 100px;
+	height: 50px;
+	position: relative;
+	left: 600px;
+	top: -200px;
+	font-family:'bebas_neueregular';
+	color: #c0392b;
+	text-align: center;
+	font-size: 50px;
+}
+
+#fivePence
+{
+	width: 100px;
+	height: 50px;
+	position: relative;
+	left: 750px;
+	top: -250px;
+	font-family:'bebas_neueregular';
+	color: #c0392b;
+	text-align: center;
+	font-size: 50px;
+}
+
+#twoPence
+{
+	width: 100px;
+	height: 50px;
+	position: relative;
+	left: 900px;
+	top: -300px;
+	font-family:'bebas_neueregular';
+	color: #c0392b;
+	text-align: center;
+	font-size: 50px;
+}
+
+#onePence
+{
+	width: 100px;
+	height: 50px;
+	position: relative;
+	left: 1050px;
+	top: -350px;
+	font-family:'bebas_neueregular';
+	color: #c0392b;
+	text-align: center;
+	font-size: 50px;
+}
+
+
+
+h1
+{
+	font-size: 100px;
+	position: relative;
+	top: -50px;
+	text-align: center;
+	color: #7f8c8d;
+}
+
+a
+{
+	color: red;
+	position: relative;
+	top:300px;
+	font-size: 30px;
+	font-family:'bebas_neueregular';
+	text-decoration: none;
+
+}
+
+@font-face {
+    font-family:'bebas_neueregular';
+    src: url('fonts/bebasneue-webfont.eot');
+    src: url('fonts/bebasneue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bebasneue-webfont.woff') format('woff'),
+         url('fonts/bebasneue-webfont.ttf') format('truetype'),
+         url('fonts/bebasneue-webfont.svg#bebas_neueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
