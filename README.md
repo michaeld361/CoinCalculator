@@ -1,0 +1,4 @@
+CoinCalculator
+==============
+
+Coin Algorithm
